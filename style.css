@@ -48,9 +48,8 @@ iframe {
   .header {
     font-size:1.5em;
   }
-  .mx-auto {
-    width: unset;
-    width: 275px;
+  .group-card-decks {
+    margin-left: 25px;
   }
   iframe {
     width: 300px;
