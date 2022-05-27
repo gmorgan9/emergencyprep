@@ -40,8 +40,12 @@ footer {
   bottom: 0;
 }
 
-@media screen and (max-width: 600px) {
+body {
+  background-color: pink;
+}
+
+@media screen and (min-width: 480px) {
   body {
-      background-color: red;
+    background-color: lightgreen;
   }
 }
