@@ -40,8 +40,8 @@ footer {
   bottom: 0;
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (width: 600px) {
   body {
-    background-color: blue;
+      background-color: red;
   }
 }
