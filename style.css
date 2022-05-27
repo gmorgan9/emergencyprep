@@ -31,9 +31,6 @@ body, html {
 .mx-auto {
   width: 1200px;
 }
-.mx-auto #vid {
-  width: 800px;
-}
 footer {
   position: relative;
   text-align: center !important;
