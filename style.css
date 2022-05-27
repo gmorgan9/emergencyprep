@@ -40,12 +40,8 @@ footer {
   bottom: 0;
 }
 
-* {
-  background-color: pink;
-}
-
-@media screen and (min-width: 480px) {
-  * {
-    background-color: lightgreen;
+@media screen and (max-width:768px){
+  body {
+  background-color: blue;
   }
 }
