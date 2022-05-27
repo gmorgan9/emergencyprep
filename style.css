@@ -39,6 +39,11 @@ footer {
   position: absolute;
   bottom: 0;
 }
+iframe {
+  width: 800px;
+  height: 520px;
+}
+
 @media (max-width: 576px) {
   .header {
     font-size:1.5em;
