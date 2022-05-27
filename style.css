@@ -1,7 +1,6 @@
 body, html {
     height: 100%;
     margin: 0;
-    background-color: #F2E7D7;
 }
 /* The hero image */
 .hero-image {
@@ -23,10 +22,9 @@ body, html {
 
 .header {
     text-align: center;
-    background-color: #70685C;
-    color: white;
+    background-color: #F2E7D7;
     height: 70px;
     margin-bottom: auto;
-    padding-top: 25px;
+    padding-top: 10px;
     margin-top: 0;
 }
