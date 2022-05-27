@@ -2,11 +2,8 @@
   .header {
     font-size: 1.8em;
   }
-  .card-deck {
-    margin-left: 55px;
-  }
-  .card  {
-    text-align: center;
+  .mx-auto {
+    width:50px;
   }
 }
 
