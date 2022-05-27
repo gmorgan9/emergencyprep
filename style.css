@@ -40,14 +40,8 @@ footer {
   bottom: 0;
 }
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 480px) {
   body {
-    background-color: lightgreen;
-  }
-}
-
-@media screen and (min-width: 800px) {
-  body {
-    background-color: lavender;
+    background-color: blue;
   }
 }
