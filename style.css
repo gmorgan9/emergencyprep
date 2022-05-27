@@ -1,8 +1,8 @@
-@media only screen (max-width: 480px) {
+@media screen and (max-width: 480px) {
       .header {
         color: red;
       }
-     }
+    }
 
 body, html {
     height: 100%;
