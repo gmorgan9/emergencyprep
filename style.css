@@ -31,3 +31,11 @@ body, html {
 .mx-auto {
   width: 1200px;
 }
+footer {
+  position: relative;
+  text-align: center !important;
+}
+.copyright{
+  position: absolute;
+  bottom: 0;
+}
