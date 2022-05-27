@@ -25,11 +25,8 @@ body, html {
     background-color: #F2E7D7;
     height: 70px;
     margin-bottom: auto;
-    padding-top: 10px;
+    padding-top: 15px;
     margin-top: 0;
-}
-.mx-auto {
-  width: 1200px;
 }
 footer {
   position: relative;
@@ -42,6 +39,7 @@ footer {
 iframe {
   width: 800px;
   height: 520px;
+  margin-left: 55px;
 }
 
 @media (max-width: 576px) {
