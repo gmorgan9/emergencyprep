@@ -40,7 +40,7 @@ footer {
   bottom: 0;
 }
 @media (min-width: 576px) {
-  body {
+  .header {
     color: red;
   }
 }
