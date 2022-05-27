@@ -3,7 +3,7 @@
     and (device-height: 812px) 
     and (-webkit-device-pixel-ratio: 3) {
       .header {
-        font-size: 1.5em;
+        color: red
       }
      }
 
