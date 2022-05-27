@@ -41,6 +41,6 @@ footer {
 }
 @media (max-width: 576px) {
   .header {
-    color: red;
+    font-size:1.5em;
   }
 }
