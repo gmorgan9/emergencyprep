@@ -1,3 +1,15 @@
+@media screen and (max-width: 390px) {
+  .header {
+    font-size: 1.8em;
+  }
+  .card-deck {
+    margin-left: 55px;
+  }
+  .card  {
+    text-align: center;
+  }
+}
+
 body, html {
     height: 100%;
     margin: 0;
@@ -38,10 +50,4 @@ footer {
 .copyright{
   position: absolute;
   bottom: 0;
-}
-
-@media screen and (min-width:1000px){
-  body {
-  background-color: blue;
-  }
 }
